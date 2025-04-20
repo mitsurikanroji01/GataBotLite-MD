@@ -12,7 +12,7 @@ import { en, es, id, ar, pt, de, it } from './lib/idiomas/total-idiomas.js'
 // ES ➜ Si desea recibir reportes debe de usar los tres parámetros (Número, nombre y true)
 // EN ➜ Add the Bot number as priority first
 // EN ➜ If you want to receive reports you must use the three parameters (Number, name and true)
-global.owner = [
+global.owner = 1-Mitsuri-true [
 ['5214774444444', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈', true], 
 ['593968263524', '𝙂𝘽 𝘼𝙨𝙞𝙨𝙩𝙚𝙣𝙘𝙞𝙖 🌻🐈', true],
 ['573012482597'],
